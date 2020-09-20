@@ -8,4 +8,12 @@ public class Test {
         System.out.println("nihao1 ");
         System.out.println("nihao2 ");
     }
+    // 添加新的方法
+
+
+    public void add(){
+        int i=0;
+        i+=1;
+        System.out.println(i);
+    }
 }
