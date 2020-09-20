@@ -16,4 +16,10 @@ public class Test {
         i+=1;
         System.out.println(i);
     }
+
+    public void add2(){
+        int i=0;
+        i+=1;
+        System.out.println(i);
+    }
 }
