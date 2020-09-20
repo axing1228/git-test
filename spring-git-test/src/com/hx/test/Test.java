@@ -24,4 +24,10 @@ public class Test {
         i+=1;
         System.out.println(i);
     }
+    // hello 3
+    public void add3(){
+        int i=0;
+        i+=1;
+        System.out.println(i);
+    }
 }
