@@ -5,5 +5,7 @@ public class Test {
 
         System.out.println("nihao ");
         System.out.println("nihao ");
+        System.out.println("nihao1 ");
+        System.out.println("nihao2 ");
     }
 }
