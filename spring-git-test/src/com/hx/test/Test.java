@@ -17,6 +17,8 @@ public class Test {
 
         System.out.println(i);
         System.out.println(i);
+        System.out.println(i);
+        System.out.println(i);
     }
 
     public void add2(){
